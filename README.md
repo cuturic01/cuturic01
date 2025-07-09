@@ -5,16 +5,20 @@ Deeply passionate about **Web3, blockchain**, and **decentralized systems**.
 
 ---
 
-### Ethernal Internship
+### Experience
 
+#### Ethernal Internship
 Worked on research and development at the intersection of **zero-knowledge cryptography** and the **Cosmos blockchain ecosystem**.  
 Project Repository: [View project](https://github.com/Ethernal-Tech/cosmwasm-exam)
+
+#### NovaLite Internship
+Developed a Twitter-like social media app using **Scala** and **React TypeScript**.
 
 ---
 
 ### Featured Projects
 
-- **MedVault** – ETH Belgrade 2025 main track and Oasis bounty winner.  
+- **MedVault** – **Award-winning project**, winner of **ETH Belgrade 2025 Main Track** and **Oasis Bounty**  
   A decentralized app for secure medical record sharing between patients and doctors.  
   Utilizes advanced cryptography with **Oasis Sapphire** and **ROFL** for on-chain encrypted storage.  
   [View project](https://github.com/branislavstojkovic70/ETH-Belgrade-MedVault)
