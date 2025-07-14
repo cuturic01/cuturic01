@@ -34,7 +34,7 @@ Developed a Twitter-like social media app using **Scala** and **React TypeScript
 ### Notable University Projects
 
 Most of my university projects are collaborative efforts completed with colleagues.  
-You can find our shared repositories at [Three Amigos Coding](https://github.com/ThreeAmigosCoding)
+You can find our shared repositories at [Three Amigos Coding](https://github.com/ThreeAmigosCoding). Some of them include:
 
 - **Cabby** – A ride-hailing app that uses the Google Maps API for optimal pathfinding and ride scheduling.  
   Built with **Java Spring Boot** and **Angular**.
