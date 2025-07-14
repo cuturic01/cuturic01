@@ -23,10 +23,10 @@ Developed a Twitter-like social media app using **Scala** and **React TypeScript
   Utilizes advanced cryptography with **Oasis Sapphire** and **ROFL** for on-chain encrypted storage.  
   [View project](https://github.com/branislavstojkovic70/ETH-Belgrade-MedVault)
 
-- **0xShadow** – **Award-winning project**, second place at Ethereum NS. Ethereum wallet using **ERC-5564 stealth addresses** for anonymous on-chain transactions.  
+- **0xShadow** – **Award-winning project**, second place at **Ethereum NS 2025**. Ethereum wallet using **ERC-5564 stealth addresses** for anonymous on-chain transactions.  
   [View project](https://github.com/branislavstojkovic70/0xShadow)
 
-- **HexBlox** – A proof-of-work blockchain implementation written from scratch in Go.  
+- **HexBlox** – **Bachelor's thesis**, proof-of-work blockchain implementation written from scratch in Go.  
   [View project](https://github.com/cuturic01/hexblox)
 
 ---
